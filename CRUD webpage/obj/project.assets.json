@@ -13256,11 +13256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas Stone\\source\\repos\\CRUD webpage\\CRUD webpage\\CRUD webpage.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas Stone\\Documents\\GitHub\\CRUD-webpage\\CRUD webpage\\CRUD webpage.csproj",
       "projectName": "CRUD webpage",
-      "projectPath": "C:\\Users\\Thomas Stone\\source\\repos\\CRUD webpage\\CRUD webpage\\CRUD webpage.csproj",
+      "projectPath": "C:\\Users\\Thomas Stone\\Documents\\GitHub\\CRUD-webpage\\CRUD webpage\\CRUD webpage.csproj",
       "packagesPath": "C:\\Users\\Thomas Stone\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas Stone\\source\\repos\\CRUD webpage\\CRUD webpage\\obj\\",
+      "outputPath": "C:\\Users\\Thomas Stone\\Documents\\GitHub\\CRUD-webpage\\CRUD webpage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
